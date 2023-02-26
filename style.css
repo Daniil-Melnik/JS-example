@@ -153,10 +153,12 @@ th {
 }
 
 #chng {
+  float: right;
   margin-top: 530px;
+  margin-left: 20px;
   height: 20px;
   width: 100px;
-  background-color: #0000ff;
+  background-color: red;
   border-radius: 20px;
 }
 
